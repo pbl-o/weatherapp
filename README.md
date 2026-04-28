@@ -1,6 +1,6 @@
 # Weather App (Exercise)
 
-- [Deployment](https://appweatherson.netlify.app/)
+- [APP](https://appweatherson.netlify.app/)
 
 App served by openweather api with current weather data 
 
