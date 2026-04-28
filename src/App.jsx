@@ -39,7 +39,7 @@ const App = () => {
         `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`,
       );
       const data = await res.json();
-      console.log(data);
+  /*     console.log(data); */
       if (data.cod === 200) {
         setWeather({
           name: data.name,
